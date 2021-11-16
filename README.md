@@ -6,9 +6,9 @@ Pricing and models
 ## Contents
 
 - Yield curve calibration (Nelson Siegel Stevensson model)
-- Bond maths and valuation: Basic
-- Par curve: data and visualisation
 - Theory: Short term interest rate models (Ho-Lee, Vaisek, Hull-White)
+- Theory: Bond maths and valuation
+- Par curve: data and visualisation
 
 ## Code snippets
 
