@@ -15,6 +15,7 @@ Pricing and models
 * [Monte Carlo: Hull White Process using QuantLib](https://github.com/raghavduseja/Fixed-Income/blob/e798ada25c54b129622c39dc8259e8f48d0dc4cb/Hull%20White%20Process%20using%20QuantLib.ipynb)
 * [STIR models Part 1 (Vasicek and other processes)](<https://github.com/raghavduseja/Fixed-Income/blob/28294c2a62200986a648d759b517690203350880/STIRs/STIR%20models%20Part%201%20(Vasicek%20and%20other%20processes).ipynb>)
 * [Pricing a ZCB under Vasicek (Analytical, Simulation, Quadrature)](https://github.com/raghavduseja/Fixed-Income/blob/d7bb1112a220ac3a7076e0700c5d0cb4db24944a/STIRs/Pricing%20a%20ZCB%20under%20Vasicek%20(Analytical,%20Simulation,%20Quadrature).ipynb)
+* [LIBOR Forward Market Model (LFMM)](https://github.com/raghavduseja/Fixed-Income/blob/551d01359b702d560e6a807db817d0f005623c52/STIRs/LIBOR%20Forward%20Market%20Model%20(LFMM).ipynb)
 * Processes: CIR, Vasicek, Hull-White (one factor, two factor)
 * Bond maths and valuation: Basic
 * Par curve: data and visualisation
